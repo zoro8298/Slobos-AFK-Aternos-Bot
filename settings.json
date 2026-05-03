@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "lunarcraft-Iamn.aternos.me:19722",
+    "port": 19722,
     "version": "",
     "try-creative": false
   },
